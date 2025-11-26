@@ -12,7 +12,7 @@ terraform {
 
 locals {
   # Define the IAM ID
-  iam_id = "iam-ServiceId-f935cedf-b50a-4051-b92a-1a9119cfd363"
+  iam_id = "iam-ServiceId-6bf7af4e-6f07-4894-ab72-ff539dfb951a"
 }
 
 # Declare a variable for the IBM Cloud API key.
